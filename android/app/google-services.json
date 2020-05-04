@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "382955301443",
+    "firebase_url": "https://waxapp-93143.firebaseio.com",
+    "project_id": "waxapp-93143",
+    "storage_bucket": "waxapp-93143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382955301443:android:6f7ab8e7da0509f57b82f6",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382955301443-57frj7jkkn0badc1qr55bu2vu3oo52mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHtvi4D-CzCMfDhV6EbLfx_2D6CYBLXSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382955301443-57frj7jkkn0badc1qr55bu2vu3oo52mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
